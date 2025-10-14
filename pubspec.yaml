@@ -1,0 +1,33 @@
+name: etshflix_aqarmap
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  dartz: ^0.10.1
+  dio: ^5.9.0
+  fan_carousel_image_slider: ^1.3.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  flutter_svg: ^2.2.1
+  get_it: ^8.2.0
+  logger: ^2.6.2
+  mocktail: ^1.0.4
+  shared_preferences: ^2.5.3
+  youtube_player_flutter: ^9.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/vectors/
