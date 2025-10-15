@@ -3,8 +3,15 @@
 A new Flutter project.
 
 
-<img width="590" height="1278" alt="IMG_8446" src="https://github.com/user-attachments/assets/e6d3d168-3c03-407d-a961-4723529dad58" />
 
-<img width="590" height="1278" alt="IMG_8447" src="https://github.com/user-attachments/assets/055f6018-39ef-4c34-921e-237f9046fd47" />
+https://github.com/user-attachments/assets/da9ee51c-be89-4bfe-bf4e-51b46051c291
 
-<img width="590" height="1278" alt="IMG_8448" src="https://github.com/user-attachments/assets/cef14051-8c19-4e3c-bb1b-cab79e925634" />
+
+
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-10-15 at 11 52 17" src="https://github.com/user-attachments/assets/1214f795-007f-4d53-a858-73d6af21710d" />
+
+
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-10-15 at 11 52 30" src="https://github.com/user-attachments/assets/55cd5c00-153e-4fa7-905c-2965a79e142a" />
+
+
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-10-15 at 11 52 40" src="https://github.com/user-attachments/assets/e61b014b-6a9b-45ae-b20f-44f712baf07e" />
